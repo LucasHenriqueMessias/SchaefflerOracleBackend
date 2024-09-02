@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oracle_backend", "oracle_backend.csproj", "{DA8A917A-8254-4659-A218-A1C883E03651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8A917A-8254-4659-A218-A1C883E03651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8A917A-8254-4659-A218-A1C883E03651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8A917A-8254-4659-A218-A1C883E03651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8A917A-8254-4659-A218-A1C883E03651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94AF9FCF-BB48-48B8-A38D-89EFB66646DA}
+	EndGlobalSection
+EndGlobal

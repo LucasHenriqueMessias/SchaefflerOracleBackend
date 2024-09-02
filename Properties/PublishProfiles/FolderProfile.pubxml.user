@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\goncalca\Desktop\oracle_backend\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2023-07-26T12:21:37.5887800Z;True|2023-07-24T08:56:57.8463154-03:00;True|2023-07-24T08:01:18.9066479-03:00;True|2023-07-24T07:56:47.5396866-03:00;True|2023-07-24T07:52:01.3300704-03:00;True|2023-07-24T07:44:07.6903010-03:00;True|2023-07-21T08:31:43.8444774-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
